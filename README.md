@@ -20,7 +20,6 @@ You need:
 
 - Rugby League 26 on Steam (PC), updated to the build the release names
 - Windows 10 or 11
-- About 6 GB free on the game's drive
 
 The mod is built on your PC from your own copy of the game: no game files are distributed here. The launcher
 backs up your saves before it installs or uninstalls anything.
