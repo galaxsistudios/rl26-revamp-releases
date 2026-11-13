@@ -32,6 +32,15 @@ You need:
 The mod is built on your PC from your own copy of the game: no game files are distributed here. The launcher
 backs up your saves before it installs or uninstalls anything.
 
+## Learn what's new
+
+The [player guide](info/README.md) explains everything the Revamp changes:
+
+- [What the Revamp Changes](info/whats-changed.md)
+- [The Discipline System](info/discipline-system.md)
+- [Training Mode](info/training-mode.md)
+- [FAQ](info/faq.md)
+
 ## Notes
 
 - Close the game before installing, updating or uninstalling.
