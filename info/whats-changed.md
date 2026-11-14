@@ -68,9 +68,9 @@ If you only read one section, read this one.
   - Receivers run onto the ball, and support runners hold their lines while you wait.
 - **New dummy controls.** While holding a pass button, click **L3** to dummy left or **R3** to dummy right. The old
   dummy still works.
-- **Quick play-the-ball.** **Double-tap the right trigger** when you're tackled to play the ball quickly. It works at
-  any point of the tackle, including the tackle that ends a line break. Quick and slow play-the-balls now really
-  change speed (a stock bug meant they didn't).
+- **Quick play-the-ball.** **Press the right trigger** when you're tackled to play the ball quickly (one press is
+  enough). It works at any point of the tackle, including the tackle that ends a line break, and the CPU always plays
+  it quickly after a line break. Quick and slow play-the-balls now really change speed (a stock bug meant they didn't).
 - **Line breaks.** CPU runners who break clean usually score where they broke instead of always curving to the posts,
   and they get support runners and a pass when a defender closes in.
 - **Try-line spills.** A player diving over in contact can lose the ball as he grounds it, and the video referee will
