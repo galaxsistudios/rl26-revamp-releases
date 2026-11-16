@@ -207,7 +207,7 @@ career to get everything below.
   kits come along as "HOME 2025" and so on.
 - **Competition mode.** Custom leagues of up to **30 clubs** (stock 16), plus Pacific Cup, Pacific Bowl, International
   Test and NSW Cup tiles, and randomly generated draws.
-- **Coaches.** Clubs have a head coach in a club-coloured polo, and both coaches stand on the sideline with the
+- **Coaches.** Every club has a head coach in a club-coloured polo, and both coaches stand on the sideline with the
   occasional reaction close-up. 70 hidden coaches and two female referees (Kasey Badger and Belinda Sharpe) are
   unlocked.
 - **Corrected club colours** for 59 teams (Penrith black and red, Parramatta blue first and so on). They drive the
@@ -234,11 +234,17 @@ career to get everything below.
 - **Edit official kits.** Change the cut and the back numbers (font, colour, keylines), add a **name on the back**,
   and get automatic **chest text** for Grand Finals, Origin deciders and milestone games. Restore Official Jerseys
   undoes it all.
-- **Kit Library.** Each club's Uniforms list has a **KIT LIBRARY** of older kits beyond the 20 slots. **COPY ACADEMY
+- **Club lists as a logo grid.** The Academy's club lists show club logos in a grid, with league tabs and A-Z or OVR
+  sorting.
+- **Club Identity screen** redesigned, with an emblem panel.
+- **Uniforms tabs.** Each club's Uniforms list has three tabs (L1 / R1): **PRIMARY KITS**, the **KIT LIBRARY** of older
+  kits beyond the 20 slots, and the **FANGEAR LIBRARY**. Press **Square** to duplicate a uniform. **COPY ACADEMY
   UNIFORM** copies any club's kit into yours, including downloaded ones.
 - **Share players and teams as files.** Export a player (Square in the player view) or a team (X on the club hub),
   and import players from the Players menu. (Importing teams isn't supported yet.)
-- **Referees & Coaches editor** in the Academy row: edit or create referees and coaches.
+- **Referees & Coaches editor** in the Academy row: edit or create referees and coaches, in the same style as the
+  player editor, with search, clubs and kits. An edited referee or coach replaces the original in the lists.
+- **Randomise appearance.** The appearance editors have a Randomise button.
 - **Kicking tee colour.** Player editor > Appearance > Accessories > Kicking Tee.
 - **12 patterned headgear designs** (lightning, tiger, tribal, camo, flames and more).
 - **Custom difficulties** can be exported and imported as files (Square).
@@ -255,8 +261,8 @@ career to get everything below.
   penalty choice and team lists are restyled to match. Super League gets a Sky-style board and the NSW Cup gets its own.
 - **Versus intro.** Matches open like a TV broadcast: stadium shots, crests flying in, the venue and kick-off time, then
   a team-colour swipe into the sheds.
-- **Coin toss.** The away captain calls, a 3D coin flips (it matches the competition), and the winner chooses to kick
-  off or pick ends. Use **Left / Right** and **Cross / A**.
+- **Coin toss.** The away captain calls, a 3D coin flips (it matches the competition, with HEADS / TAILS on every
+  coin and its own coin for State of Origin), and the winner chooses to kick off or pick ends. Use **Left / Right** and **Cross / A**.
 - **Grand Final intros.** Club-colour tunnel lights, crowd light shows in team colours, post-fireworks smoke, and a
   choice of RL26's intro, a trailer-style intro or **Rugby League Live 4's tunnel walk**.
 - **Anzac Round.** Both teams walk out together, then line up for the Last Post.
@@ -265,7 +271,8 @@ career to get everything below.
 - **Replay stinger.** A team-colour swipe with the club crest leads from a try into its replay.
 - **Match summary.** Penalty goals are labelled properly, scorers are listed in order, and the team sheets show
   numbers and colours.
-- **Finals screens.** The stadium's big screen turns gold for Grand Finals and silver for other finals.
+- **Finals screens.** The stadium's big screen turns gold for Grand Finals, silver for other finals, and sky blue
+  and maroon for State of Origin.
 - **Ladder logos.** Club logos on the competition ladder (empty in stock).
 - **Loading screen.** Club-colour arrows, bigger crests, the stadium in the background and a spinning ball.
 - **Try celebrations.** Celebrations that shipped but never played are back (including Melbourne Storm players' own,
@@ -304,7 +311,8 @@ career to get everything below.
   At Grand Finals the glowing wristbands light up in team colours.
 - **Fans wave team flags.**
 - **Crowd Variance** (Settings > Graphics) sets how much variety there is. High uses more video memory.
-- **Fangear Library** (Academy club > Uniforms) lets you switch individual fan designs on or off.
+- **Fangear Library** (Academy club > Uniforms, third tab) lets you switch individual fan designs on or off, and
+  preview them on a fan.
 
 ## Kits, balls and logos
 

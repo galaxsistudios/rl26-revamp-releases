@@ -35,7 +35,11 @@ the right-hand edge** of the card, filling from the bottom. (Stamina is still th
 | Orange | Errors are creeping in |
 | Red | On the edge: penalties, bins and send-offs are possible |
 
-A red **RATTLED** tag appears while the player is rattled (see below).
+A red **RATTLED** tag appears while the player is rattled (see below). The bar shows on every scoreboard style,
+including QLD Cup, NSW Cup, State of Origin, the World Cup and Super League.
+
+The **Interchange** menu shows a **RATTLED** badge on rattled players' rows and on the player card, with a short note
+under the focused player's stats explaining what it means.
 
 ## What drains discipline
 
@@ -88,7 +92,8 @@ Every cost above is multiplied by the player's situation:
   with the call, the scoreboard banner and commentary. It doesn't bring a sin bin any closer.
 - **Half time.** Everyone gets a boost (or is lifted to 60%, whichever is more), and siege, rattled and on notice are
   cleared.
-- **The sin bin.** A binned player comes back settled (up to 60%), and his teammates rally a little while he's off.
+- **The sin bin.** A sin bin carries over the half-time break: a player binned late in the first half sits out the
+  rest of their ten minutes at the start of the second. A binned player comes back settled (up to 60%), and his teammates rally a little while he's off.
 
 How much a player gains from these moments depends on him: older heads, captains and calm (low aggression) players
 settle better. Players who have cracked gain the most, and nothing lifts anyone above 85%.
