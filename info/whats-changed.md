@@ -37,7 +37,7 @@ whatever you care about most.
 
 If you only read one section, read this one.
 
-- **[Discipline meter](discipline-system.md).** Every player has a mental bar beside his stamina. Pressure, fatigue
+- **[Discipline meter](discipline-system.md).** Every player has a mental bar beside their stamina. Pressure, fatigue
   and mistakes drain it, and low discipline means errors, penalties, sin bins and send-offs.
 - **[Training Mode](training-mode.md).** Play > Training Mode: practise any situation under full match rules, with
   instant resets.
@@ -73,7 +73,7 @@ If you only read one section, read this one.
   it quickly after a line break. Quick and slow play-the-balls now really change speed (a stock bug meant they didn't).
 - **Line breaks.** CPU runners who break clean usually score where they broke instead of always curving to the posts,
   and they get support runners and a pass when a defender closes in.
-- **Try-line spills.** A player diving over in contact can lose the ball as he grounds it, and the video referee will
+- **Try-line spills.** A player diving over in contact can lose the ball while grounding it, and the video referee will
   rule it a knock-on. Disciplined players hold on more often.
 - **Position-based passing ratings.** Halves and hookers pass best, and props and wingers worst (but props still
   offload well).
@@ -85,10 +85,10 @@ If you only read one section, read this one.
   back, and stranded tacklers get up and rejoin. **Double-tap the left trigger** to retreat works again, at any point
   of the tackle.
 - **Ruck penalties.** Penalties for an offside defender hit by a dummy-half pass, catching it while offside, or
-  running into the dummy half before he picks the ball up. A marker standing beside the ruck instead of in front of
+  running into the dummy half before they pick the ball up. A marker standing beside the ruck instead of in front of
   it is offside.
 - **Sweeper fullback.** The CPU fullback sits back (about 20 m deep early in the set, 35 m late) instead of charging
-  every ruck, and joins the line near his own try line.
+  every ruck, and joins the line near their own try line.
 - **Fewer CPU scoots.** The CPU dummy half passes far more often instead of scooting at every chance.
 - **Last-tackle warning.** On the opposition's last tackle, the tactics card flashes red: press Down to drop your
   wingers back.
@@ -131,16 +131,16 @@ two-point field goals and short kicks.
   themselves first is a double knock-on and the first one stands. No more instant six-again a second after losing the
   ball in a tackle.
 - **Referee positioning.** The referee stands 10 m back on the defensive line, sprints on changeovers, follows line
-  breaks and sets up properly at scrums and goal kicks. Touch judges stay on their touchlines. He also gives the
-  "last tackle" signal.
+  breaks and sets up properly at scrums and goal kicks. Touch judges stay on their touchlines. The referee also
+  gives the "last tackle" signal.
 - **On report.** High tackles show the referee's close-up, and some put the player **on report** with a banner under the
   scoreboard. In a Revamp career, reports lead to the judiciary.
-- **HIAs.** Some head-high tackles send the tackled player off for a **Head Injury Assessment**. He's replaced on a
+- **HIAs.** Some head-high tackles send the tackled player off for a **Head Injury Assessment**. They're replaced on a
   free interchange, sits out 15 minutes of match time, then passes and returns or fails and is out for the match.
 - **Bunker overturns.** Some held-up, knock-on, out-of-play or double-movement attempts are first given on the field,
   then the video referee overturns them and the points come off.
 - **Conversion shot clock.** Time comes off after 80 seconds, and in the last 5 minutes the clock stops from the try
-  until the kicker starts his run-up.
+  until the kicker starts their run-up.
 - **Field goals** get a single whistle instead of two whistles and a "Try!" call.
 - **Professional fouls.** Holding down the tackler who ended a line break is a penalty and a sin bin (see
   [Discipline](discipline-system.md#professional-fouls-after-a-line-break)).
@@ -347,7 +347,7 @@ career to get everything below.
 ## Menus and look
 
 - **New home screen** with four tabs (Play, Academy, Settings, Extras; LB / RB to switch) and a random NRL player in
-  his club's kit.
+  their club's kit.
 - **Revamp theme.** Flat dark panels and Revamp blue across the menus (your club's colours in career).
 - **New pause menu** with the score and scorers.
 - **Animated boot intro and start screen.** To boot straight to the main menu, set `skip_intro = true` in

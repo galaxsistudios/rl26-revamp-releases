@@ -6,7 +6,7 @@ side of the game.
 
 > **In short:** discipline starts at 100% for everyone. Bad moments drain it, good moments and calm spells bring it
 > back. A player low on discipline makes more handling and kicking errors, loses more one-on-one contests, and at the
-> very bottom gives away foul tackles that get him sin-binned or sent off.
+> very bottom gives away foul tackles that get them sin-binned or sent off.
 
 **On this page**
 
@@ -45,16 +45,16 @@ under the focused player's stats explaining what it means.
 
 | What happens | Who pays | Cost |
 |---|---|---|
-| Gives away a penalty | the offender (and he's rattled) | big |
-| Gives away a six again | the offender (and he's rattled) | medium |
+| Gives away a penalty | the offender (who is also rattled) | big |
+| Gives away a six again | the offender (who is also rattled) | medium |
 | Concedes a try | every defender on the field | medium |
 | Concedes a line break | every defender, more for the ones who were beaten | small to medium |
-| Gets fended, or has his tackle broken | the tackler (fended = rattled) | small |
-| Gets hit by a big hit | the player hit (and he's rattled) | medium |
+| Gets fended, or has their tackle broken | the tackler (fended = rattled) | small |
+| Gets hit by a big hit | the player hit (who is also rattled) | medium |
 | Knocks on | the player who dropped it | medium |
-| Defends a play-the-ball | every defender, more inside his own 40 m and much more inside his own 20 m | tiny, but it adds up over a long set |
+| Defends a play-the-ball | every defender, more inside their own 40 m and much more inside their own 20 m | tiny, but it adds up over a long set |
 | Golden point starts | everyone on the field, both teams | small |
-| His team loses the lead | the team that was ahead, more if they're overtaken and more late in the match | small to medium |
+| Their team loses the lead | the team that was ahead, more if they're overtaken and more late in the match | small to medium |
 
 Good moments help: scoring a try lifts the whole team on the field, and making a line break, breaking a tackle,
 landing a big hit or fending a defender gives some discipline back to the player who did it.
@@ -76,26 +76,26 @@ Every cost above is multiplied by the player's situation:
   in front plays calmer. A tight finish (within 6 points in the last fifth of the match) puts both teams on edge.
 - **Age.** Young players (20 and under) are the most volatile: they drain faster but also bounce back faster.
   Veterans (32+) are steady, but fatigue hits them harder.
-- **Aggression.** A player's aggression rating (which the stock game doesn't use on the field) makes him drain
+- **Aggression.** A player's aggression rating (which the stock game doesn't use on the field) makes them drain
   faster and makes a send-off more likely.
 - **Captains** drain slower and recover a little faster.
 
 ## How players settle back down
 
-- **Calm spells.** While his team isn't under siege, he has over half his stamina and he isn't rattled, a player
-  slowly gets his discipline back. It's slow on purpose: a fresh player roughly holds steady, a tired one sinks.
+- **Calm spells.** While their team isn't under siege, they have over half their stamina and they aren't rattled, a player
+  slowly gets their discipline back. It's slow on purpose: a fresh player roughly holds steady, a tired one sinks.
 - **The bench.** Players recover much faster on the bench.
 - **Referee warnings.** When the referee warns a team (the stock game's warnings for high tackles and ruck
   penalties), the whole team settles a little. A **final warning** settles them more and puts each player **on
-  notice** for about 5 minutes, which cuts how much he loses.
+  notice** for about 5 minutes, which cuts how much they lose.
 - **Repeated penalties.** Three penalties of any kind in a short spell now also get the referee's final warning,
   with the call, the scoreboard banner and commentary. It doesn't bring a sin bin any closer.
 - **Half time.** Everyone gets a boost (or is lifted to 60%, whichever is more), and siege, rattled and on notice are
   cleared.
 - **The sin bin.** A sin bin carries over the half-time break: a player binned late in the first half sits out the
-  rest of their ten minutes at the start of the second. A binned player comes back settled (up to 60%), and his teammates rally a little while he's off.
+  rest of their ten minutes at the start of the second. A binned player comes back settled (up to 60%), and their teammates rally a little while they're off.
 
-How much a player gains from these moments depends on him: older heads, captains and calm (low aggression) players
+How much a player gains from these moments depends on the player: older heads, captains and calm (low aggression) players
 settle better. Players who have cracked gain the most, and nothing lifts anyone above 85%.
 
 ## What low discipline does
@@ -103,8 +103,8 @@ settle better. Players who have cracked gain the most, and nothing lifts anyone 
 **Errors (everyone, including you).** Below 50%, a player's passing, offloading, catching, goal kicking and field
 goal skills drop, by up to a quarter at 0%. The game's own knock-on, bad-pass and kicking rolls then do the rest.
 
-**Losing contests (everyone).** Below 60%, a player's fend, step, tackle break and tackling fade, so he's easier to
-beat and easier to tackle. He's easier to strip and more likely to spill the ball in a big hit. A player who is very
+**Losing contests (everyone).** Below 60%, a player's fend, step, tackle break and tackling fade, so they're easier to
+beat and easier to tackle. They're easier to strip and more likely to spill the ball in a big hit. A player who is very
 composed (over 85%) gets a little better at all of it.
 
 **Foul tackles (both teams, including you).** Below 35%, a front-on tackle can turn into a real foul: a **spear
@@ -126,15 +126,15 @@ When a CPU team's discipline drops, it plays like a rattled team. It's more like
 - force an **offload** in the tackle;
 - make a **sloppy play-the-ball** (a lost or slow one);
 - be **lazy getting back onside**;
-- send a **kick chaser early**, and give away a penalty if he plays the ball while still offside.
+- send a **kick chaser early**, and give away a penalty if they play the ball while still offside.
 
 That's how you get rewarded for pressure: keep a team pinned in its own end and it starts to make mistakes.
 
 ## Captains
 
-After a setback (a try or penalty conceded, a line break, a teammate binned), a composed captain steadies his
-teammates. A captain who has lost it himself unsettles them. A captain on the bench counts for less, and one in the
-sin bin counts for nothing. If a captain is **sent off**, his team drains faster until a new one takes over (the CPU
+After a setback (a try or penalty conceded, a line break, a teammate binned), a composed captain steadies their
+teammates. A captain who has lost it themselves unsettles them. A captain on the bench counts for less, and one in the
+sin bin counts for nothing. If a captain is **sent off**, their team drains faster until a new one takes over (the CPU
 names one straight away; your team gets a stand-in after 10 minutes or at the next half).
 
 ## Professional fouls after a line break

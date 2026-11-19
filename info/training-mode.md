@@ -5,7 +5,7 @@ just inside halfway, a scrum, a penalty goal, a goal line drop-out), play it out
 play ends. Run it again as many times as you like.
 
 It's built for learning: practise your attack against different defences, work on your goal kicking, test a set
-play, or see how a player's ratings change what he can do.
+play, or see how a player's ratings change what they can do.
 
 **On this page**
 
@@ -100,8 +100,8 @@ straight back into play. Difficulty and stats card changes apply without a reset
 
 With **Player Stats** on, a card on the right of the screen shows the player you control:
 
-- his **live stamina and sprint**, updating as you play;
-- his **ratings**: either all 25 (physical, evasion, defence, handling and kicking) or the 11 key ones.
+- their **live stamina and sprint**, updating as you play;
+- their **ratings**: either all 25 (physical, evasion, defence, handling and kicking) or the 11 key ones.
 
 Switch players and the card follows. It's a quick way to see why one forward makes metres and another doesn't.
 

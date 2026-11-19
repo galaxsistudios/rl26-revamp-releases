@@ -174,7 +174,7 @@ Make a custom difficulty (**Academy > Custom Difficulties**) to tune it: for exa
 
 ### What's the bar on the right of my player's card?
 
-That's his **discipline**. Blue is settled, red means he's close to giving away penalties or getting binned. See
+That's the player's **discipline**. Blue is settled, red means they're close to giving away penalties or getting binned. See
 [The Discipline System](discipline-system.md).
 
 ### I'm streaming. Is the music safe?
