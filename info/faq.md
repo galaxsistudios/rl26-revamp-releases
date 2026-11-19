@@ -10,6 +10,7 @@ Quick answers to the questions players ask most.
 - [The install stopped part way. What now?](#the-install-stopped-part-way-what-now)
 - [How do I update?](#how-do-i-update)
 - [Steam updated the game. What do I do?](#steam-updated-the-game-what-do-i-do)
+- [I can't sign in: Big Ant's servers are down](#i-cant-sign-in-big-ants-servers-are-down)
 - [How do I go back to the stock game?](#how-do-i-go-back-to-the-stock-game)
 
 **Saves**
@@ -48,7 +49,7 @@ Quick answers to the questions players ask most.
 - Rugby League 26 on Steam (PC), fully updated
 - Windows 10 or 11
 - About 12 GB of free disk space
-- 30 to 45 minutes for the first install
+- About 30 minutes for the first install
 
 Download **RL26-Revamp-Launcher.exe** from the
 [latest release](https://github.com/galaxsistudios/rl26-revamp-releases/releases/latest), run it and click **Install**.
@@ -57,7 +58,8 @@ Download **RL26-Revamp-Launcher.exe** from the
 
 The Revamp is **built on your PC from your own copy of the game**, so no game files are handed around. The launcher
 downloads about 1.1 GB, then rebuilds textures, kits, crowds, coaches and menus from your game files. Updates are
-much quicker: usually a few minutes.
+much quicker: usually a few minutes. A full reinstall after the first one (Repair, or the update after a Steam game
+update) takes about 11 minutes, because the Revamp keeps what it already built.
 
 ### Windows SmartScreen warned me about the launcher. Is it safe?
 
@@ -80,7 +82,20 @@ see a new one.
 
 A game update can replace files the Revamp changed. The launcher warns you when the game has been updated since the
 release was built. Wait for a Revamp release that supports the new game version, then update through the launcher.
-If things look wrong in the meantime, **Repair** downloads the package again and does a full reinstall.
+
+That update is a full reinstall. Keep **Steam running**: the Revamp first asks Steam to **Verify integrity of game
+files**, which puts the game back to the new version's files. Then it sets aside its backup of the old version and
+installs over the new files. Your saves are backed up first. Each Revamp release keeps Big Ant's changes from the game
+update alongside its own.
+
+Release 0.0.6 supports Rugby League 26 version 1.0.6004 (19 November 2026).
+
+### I can't sign in: Big Ant's servers are down
+
+Tick **Offline mode** in the launcher (you need the launcher from release 0.0.6 or later), then start the game. It
+skips Big Ant's sign-in and goes straight to the main menu. While it's on, **Academy > Community** is locked, because
+downloads and uploads need the servers. Untick it when the servers are back. Without the new launcher, set
+`offline_mode = true` in `rl26_revamp.ini` in the game folder.
 
 ### How do I go back to the stock game?
 

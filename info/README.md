@@ -55,6 +55,7 @@ New here? Start with [The big ones](whats-changed.md#the-big-ones). It's the two
 
 - [The install stopped part way](faq.md#the-install-stopped-part-way-what-now)
 - [Steam updated the game](faq.md#steam-updated-the-game-what-do-i-do)
+- [Can't sign in? Offline mode](faq.md#i-cant-sign-in-big-ants-servers-are-down)
 - [Restoring a save backup](faq.md#how-do-i-restore-a-backup)
 - [Sending a bug report](faq.md#how-do-i-report-a-bug)
 - [Going back to the stock game](faq.md#how-do-i-go-back-to-the-stock-game)

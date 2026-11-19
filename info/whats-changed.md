@@ -178,17 +178,29 @@ career to get everything below.
   Super League **Magic Weekend** and an annual **Las Vegas** doubleheader.
 - **Home grounds.** Your home games are spread across primary, secondary and "visit" grounds. In the career Settings
   tab, **Draw Customize** lets you set three rivals and how your home games are split (from next season).
-- **Teamlist Tuesday.** A popup with your opponent's 1-17 and reserves.
+- **New hub tabs.** The career hub has **Inbox**, **News**, **Stats** and **Calendar** tabs. Stats shows club, player
+  and NRL leader pages. Press Accept on it to browse a full table for every stat, by competition. The Calendar has a
+  dots view (Y) showing every competition's games.
+- **A news desk.** A wrap after every NRL round (scores, upsets, the top 8, streaks, injuries), a star player watch, a
+  weekly coach's briefing in the Inbox, 200th and 300th game milestones, and season awards with the Team of the Year.
+- **Teamlist Tuesday.** Your opponent's 1-17 and reserves, in the Inbox.
 - **Fans.** Fan comments in the news feed and a **Fan Pulse** page.
 - **Judiciary.** Players put on report can be fined or suspended, more often for repeat offenders. Each career keeps a
   Judiciary Record.
 - **Milestones.** 100th, 150th and 200th games, with the milestone player leading the team out.
 - **Mid-season transfers**, with transfer news.
+- **Club management.** Automatic training (Settings > Training) keeps your training plans filled and every player
+  assigned. Every staff and facility purchase sends a receipt to your Inbox. New careers start facilities at level 2.
+- **Real sponsors.** Sponsor offers come from each club's real partners and its league's sponsors.
+- **Fairer simulated matches.** Simmed games rate players by OVR, so athletic Super League sides and the Perth Bears no
+  longer win most of them. Career training gains are bigger.
 - **Salary cap sanctions.** Stay over the cap and you're fined weekly, and eventually the board sacks you.
 - **Feeder clubs and rivals.** NRL rivals are played twice a season, Super League rivals three times.
 - **Random draws and players.** On career setup: Draw (Default / Randomly Generated), Randomize Players (Off / Set
   Random / True Random), Keep Players To Same League and Randomize Loyalty.
-- **The State Championship.** The QLD Cup winner plays the NSW Cup winner on Grand Final day.
+- **Grand Finals on Sunday.** The NRL Grand Final is on Sunday at 19:30 and the NRLW one at 15:55 (stock: Friday).
+- **The State Championship.** The QLD Cup winner plays the NSW Cup winner on Grand Final day at 13:00. The calendar
+  shows it as TBC v TBC until both cups are decided.
 - **The international calendar.** World Cups every four years. In between: the **Pacific Cup**, the **Pacific Bowl**,
   a promotion play-off between them, and England hosting a three-Test series (the **Ashes** against Australia).
 - **A restyled squad screen** with player tabs and rating bars (L1 / R1 switch modes, L2 / R2 switch player tabs).
@@ -200,6 +212,7 @@ career to get everything below.
 
 - **Perth Bears.** The NRL's 18th club, at HBF Park and North Sydney Oval, with a 2027 squad.
 - **2027 squads.** Confirmed 2027 signings, departures and retirements are applied.
+- **International squads** come from the latest game update (Kangaroos, Kumuls, Cedars, Tonga, Kiwi Ferns).
 - **NSW Cup.** The league, its clubs and their real 2026 squads are unlocked, plus 464 reserve-grade players. It shows
   in Play Now team select and competition mode.
 - **Women's clubs.** The 2026 women's clubs are unlocked.
@@ -237,6 +250,8 @@ career to get everything below.
 - **Club lists as a logo grid.** The Academy's club lists show club logos in a grid, with league tabs and A-Z or OVR
   sorting.
 - **Club Identity screen** redesigned, with an emblem panel.
+- **Uniform options.** On PRIMARY KITS, **Start** opens More Options (Export Jersey, Rename, Duplicate, Delete, Set
+  Defaults), and the right stick spins and zooms the preview.
 - **Uniforms tabs.** Each club's Uniforms list has three tabs (L1 / R1): **PRIMARY KITS**, the **KIT LIBRARY** of older
   kits beyond the 20 slots, and the **FANGEAR LIBRARY**. Press **Square** to duplicate a uniform. **COPY ACADEMY
   UNIFORM** copies any club's kit into yours, including downloaded ones.
@@ -250,8 +265,8 @@ career to get everything below.
 - **Custom difficulties** can be exported and imported as files (Square).
 - **Clear Academy Data.** Press Y / Triangle on the Academy row to bulk-delete or reset Academy content. It asks first
   and can't be undone.
-- **More emblems.** North Sydney Bears, PNG Chiefs, classic NRL logos and 55 hidden badges are unlocked in the emblem
-  picker.
+- **More emblems.** North Sydney Bears, PNG Chiefs, classic NRL logos, 55 hidden badges and the Season 11 emblem are
+  in the emblem picker, which has full-width tabs by league and no duplicates.
 - **Trophy Viewer** in Extras: every trophy on its stand.
 
 ## Broadcast presentation
@@ -318,6 +333,9 @@ career to get everything below.
 
 - **Hundreds of extra kits.** Every hidden kit that ships with the game is unlocked, plus over 300 older kits (2017 to
   2024, from Rugby League Live 4 and its kit packs) in the Kit Library.
+- **Community Creations.** Kits made by the community on the FanHub, in the Kit Library under a COMMUNITY CREATIONS
+  heading. Each kit is credited to its creator there and on the About page.
+- **Unreleased kits stay hidden** (like the game's new Disruptors and Inferno Pro Team kits) until they're released.
 - **Kit names show their season** ("HOME 2026"), and clubs wear their newest kit by default.
 - **Fixed logos** on a few official kits.
 - **Seven new referee kits** for 2026 (Play Now > Officiating > Referee Jersey).
@@ -353,6 +371,10 @@ career to get everything below.
 playing online with a modded game risks your account. The Online box (and Pro Team) is removed from the menu, and
 invites are cancelled with a message. You can still browse and download Academy content. Before you **upload**
 anything, the Revamp warns you that it may include kits, logos or players other people don't have.
+
+**Offline mode.** If Big Ant's servers are down and the game can't sign in, tick **Offline mode** in the launcher. The
+game then skips the sign-in and goes to the main menu. Academy > Community is locked until you untick it (see the
+[FAQ](faq.md#i-cant-sign-in-big-ants-servers-are-down)).
 
 ## The optional Rugby 25 Expansion
 
