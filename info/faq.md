@@ -88,7 +88,7 @@ files**, which puts the game back to the new version's files. Then it sets aside
 installs over the new files. Your saves are backed up first. Each Revamp release keeps Big Ant's changes from the game
 update alongside its own.
 
-Release 0.0.6 supports Rugby League 26 version 1.0.6004 (19 November 2026).
+Release 0.0.7 supports Rugby League 26 version 1.0.6004 (19 November 2026).
 
 ### I can't sign in: Big Ant's servers are down
 

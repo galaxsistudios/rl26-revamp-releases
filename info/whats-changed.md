@@ -9,6 +9,7 @@ whatever you care about most.
 - [On the field: attack](#on-the-field-attack)
 - [On the field: defence](#on-the-field-defence)
 - [Kicking](#kicking)
+- [Weather](#weather)
 - [Rules and referees](#rules-and-referees)
 - [The CPU (AI)](#the-cpu-ai)
 - [Stamina, injuries and ratings](#stamina-injuries-and-ratings)
@@ -46,6 +47,8 @@ If you only read one section, read this one.
 - **Aim your kicks.** A predicted flight line for grubbers, field goals, bombs and punts, steered with the left stick.
 - **Smarter CPU.** It kicks on the last, uses its whole bench, rotates the fullback as a sweeper and takes two-point
   field goals at the right moments.
+- **Weather that matters.** Rain makes the ball slippery and the footing worse, and wind pushes kicks around. Pick
+  the rain and wind in Play Now, up to a torrential downpour.
 - **A TV broadcast look.** NRL-style scoreboard, a "versus" match intro, a coin toss, bunker decisions with TRY / NO
   TRY graphics, team songs and an NRL siren.
 - **A bigger career.** Theme rounds, Magic Round, Las Vegas, rivals, fines and suspensions, salary cap sanctions,
@@ -59,7 +62,9 @@ If you only read one section, read this one.
 
 - **Your attack calls actually run.** The play you pick (Hit Up, Cross Over, Out The Back, Inside Ball, Kick) now runs
   across nearly the whole field. Support runners hold better lanes, the backs stand less deep and the halves and
-  fullback stop hogging the ball.
+  fullback stop hogging the ball. Your team runs the play you call (the CPU no longer calls plays for your side), and
+  a call ends when you lose the ball. Custom Difficulties AI tab: Play Call Strength, Play Call Re-sends and Calls
+  Last One Set.
 - **Better passing.**
   - L1 / R1 no longer flip direction when the broadcast camera pans into a corner.
   - No more passes to a player behind you, into empty space, or to someone heading to the bench.
@@ -71,6 +76,9 @@ If you only read one section, read this one.
 - **Quick play-the-ball.** **Press the right trigger** when you're tackled to play the ball quickly (one press is
   enough). It works at any point of the tackle, including the tackle that ends a line break, and the CPU always plays
   it quickly after a line break. Quick and slow play-the-balls now really change speed (a stock bug meant they didn't).
+- **Ruck call** (from Rugby League Live 4). While your ball carrier is being tackled, press pass left or right to call
+  the nearest team-mate on that side (usually the hooker) in as dummy half. The **Dummy-Half Depth** slider (Misc tab)
+  sets how far behind the ruck the dummy half stands.
 - **Line breaks.** CPU runners who break clean usually score where they broke instead of always curving to the posts,
   and they get support runners and a pass when a defender closes in.
 - **Try-line spills.** A player diving over in contact can lose the ball while grounding it, and the video referee will
@@ -104,6 +112,12 @@ If you only read one section, read this one.
 - **Target kicks.** Hold the target-kick button to see two lines at once: **bomb** (warm colour) and **punt** (cool
   colour). Inside the opposition 30, a punt becomes a **cross-field kick** to the wing.
 - **Chip kicks** go where you aim, not just straight ahead.
+- **Banana chips.** Tap **L1** or **R1** around a chip kick to curl it left or right. Better kickers bend it more, and
+  the CPU curls chips too.
+- **Charged chips.** Hold the chip / field goal button: aimed at the posts it's a field goal, anywhere else it charges
+  a chip with a yellow aim line. Past half power the chip goes low and long (about 24 m) for your chaser.
+- **Wind.** Wind pushes kicks in the air (some kick types more than others) and affects goal kicks on every
+  difficulty, for the CPU as well as you.
 - **Kicker skill matters.** Good kickers get more control, better aim and higher bombs; poor kickers wobble and miss.
   Ratings and stamina shape grubbers and field goals.
 - **Contested bombs.** Two chasers compete for the ball and the rest hold a line. Catching a bomb on the full can go
@@ -118,7 +132,21 @@ If you only read one section, read this one.
 
 KICKING tab settings: Kick Aim Line, Chip Aim, Kick Skill Effect, Field Goal Aim Assist and Aim Sway, Bomb Height, Bomb
 Max Hang, Cross-Field Zone, Bomb Contesters, Short Kick-Offs And Drop-Outs and how often the CPU uses cross-field kicks,
-two-point field goals and short kicks.
+two-point field goals and short kicks, plus Banana Chip Curl, AI Banana Chips, Sideways Hold Chips and Flat Long
+Chips. The Misc tab has Wind on Kicks and Wind on Goal Kicks.
+
+## Weather
+
+- **Rain changes the match.** On a wet pitch there are more handling errors and spills, passes are less accurate,
+  players slip and tire faster, the ball skids and bounces differently, tackles slip more often, and the CPU plays a
+  tighter game (more hit-ups, fewer offloads).
+- **Pick the weather.** Play Now > Match Settings > Time & Weather has a **Rain** row (Forecast / Light / Normal /
+  Heavy) and a **Wind** row (Forecast / Off / Light / Strong / Random). Heavy rain is a proper downpour with low mist
+  over the ground.
+- **Wind indicator** on the ground, with a new chevron look.
+
+Misc tab settings: Wet Handling Errors, Wet Footing, Wet Ball Bounce, Wet Tackle Breaks, AI Wet-Weather Plan, Wind on
+Kicks and Wind on Goal Kicks.
 
 ## Rules and referees
 
@@ -173,6 +201,8 @@ Awareness, Fullback Depth, AI Dummy-Half Scoots and AI Own-End Slow Play-The-Bal
 Revamp careers save separately from stock ones (see the [FAQ](faq.md#will-my-old-careers-still-work)). Start a new
 career to get everything below.
 
+- **Careers start in 2027**, with the real 2027 NRL draw, trials, men's and women's State of Origin and the 2027
+  theme rounds. Competition mode starts in 2027 too.
 - **Club colours** on every career screen.
 - **Theme rounds.** Special balls, referee kits and field markings for theme rounds, **Magic Round** every season,
   Super League **Magic Weekend** and an annual **Las Vegas** doubleheader.
@@ -259,6 +289,8 @@ career to get everything below.
   and import players from the Players menu. (Importing teams isn't supported yet.)
 - **Referees & Coaches editor** in the Academy row: edit or create referees and coaches, in the same style as the
   player editor, with search, clubs and kits. An edited referee or coach replaces the original in the lists.
+  Share them as files: press **X** on Edit Referee / Edit Coach to export, or use the **Import / Export** rows on the
+  Referees and Coaches screens.
 - **Randomise appearance.** The appearance editors have a Randomise button.
 - **Kicking tee colour.** Player editor > Appearance > Accessories > Kicking Tee.
 - **12 patterned headgear designs** (lightning, tiger, tribal, camo, flames and more).

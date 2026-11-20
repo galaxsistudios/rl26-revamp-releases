@@ -26,6 +26,8 @@ New here? Start with [The big ones](whats-changed.md#the-big-ones). It's the two
 
 - [New controls: L3/R3 dummies, quick play-the-ball, retreat](whats-changed.md#on-the-field-attack)
 - [Aiming your kicks with the kick line](whats-changed.md#kicking)
+- [Banana chips and charged chips](whats-changed.md#kicking)
+- [Rain and wind: how the weather changes a match](whats-changed.md#weather)
 - [Running your own scrums](whats-changed.md#rules-and-referees)
 - [How knock-on advantage works now](whats-changed.md#rules-and-referees)
 - [Reading the discipline bar](discipline-system.md#where-to-see-it)
