@@ -88,7 +88,13 @@ files**, which puts the game back to the new version's files. Then it sets aside
 installs over the new files. Your saves are backed up first. Each Revamp release keeps Big Ant's changes from the game
 update alongside its own.
 
-Release 0.0.7 supports Rugby League 26 version 1.0.6004 (19 November 2026).
+Release 0.0.8 supports Rugby League 26 version 1.0.6004 (19 November 2026).
+
+### The update is downloading stadiums. Is that normal?
+
+Yes. From release 0.0.8, the new stadiums are a separate download of about 520 MB that happens during the install or
+update. You only need it once, until the stadiums change. If your connection drops, run the update again and it picks
+up where it stopped.
 
 ### I can't sign in: Big Ant's servers are down
 

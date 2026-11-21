@@ -176,6 +176,10 @@ Kicks and Wind on Goal Kicks.
 
 ## The CPU (AI)
 
+- **Sharper attack.** Runners hit the ball at pace, forwards work through hit-up sets and the halves link up better.
+  Twelve new sliders in Custom Difficulties tune CPU attack and kick returns.
+- **Defensive shapes.** From Pro difficulty up, the CPU chooses to slide, compress or hold its shape at each ruck.
+- **Better 40/20s.** The CPU picks its moments, repeats them less and aims for open space.
 - **Uses the whole bench.** Tired forwards and the hooker come off at around half stamina, with rotations around 20
   minutes, half time, 60 and 70. Starters come back on in the second half, and the interchange limit is respected. It
   also manages your team if automatic interchanges are on.
@@ -198,6 +202,8 @@ Awareness, Fullback Depth, AI Dummy-Half Scoots and AI Own-End Slow Play-The-Bal
 
 ## Career mode
 
+- **More stats.** The stats browser has Fantasy Points, Sin Bins and Send Offs tabs, and simulated matches list sin
+  bins and send-offs in their report.
 Revamp careers save separately from stock ones (see the [FAQ](faq.md#will-my-old-careers-still-work)). Start a new
 career to get everything below.
 
@@ -259,6 +265,8 @@ career to get everything below.
 
 ## Play Now
 
+- **Season.** Choose Today, Summer, Autumn, Winter or Spring. It sets the sun, so night matches get a proper night sky.
+- **Roof.** At Marvel Stadium, play with the roof open or closed.
 - **Match Settings has four tabs** (L1 / R1): **General** (including **Finals**: play it as a Grand Final),
   **Time & Weather**, **Officiating** (choose the referee and touch judges, and how kick-off is decided: coin toss,
   random or your choice), and **Visuals** (field markings, ball, scoreboard, referee jersey, commentary, trophy and
@@ -303,6 +311,10 @@ career to get everything below.
 
 ## Broadcast presentation
 
+- **Match momentum.** A Momentum tab on the match report shows the game's swings and key events, with a momentum graph
+  during the match.
+- **TRY CONFIRMED.** Try replays show a badge in the bottom right.
+- **Finals change rooms.** The change room scenes now appear in about half of regular matches.
 - **NRL-style scoreboard** with crests, the half, the clock and a tackle counter. Animated try, sin bin, send-off, on
   report and interchange banners, and a TV-style stat banner during play. The player plate, interchange screen,
   penalty choice and team lists are restyled to match. Super League gets a Sky-style board and the NSW Cup gets its own.
@@ -339,6 +351,9 @@ career to get everything below.
 
 ## Stadiums and the pitch
 
+- **Six new stadiums.** The Melbourne Cricket Ground, Marvel Stadium, The Gabba, Adelaide Oval, Forsyth Barr Stadium
+  and Yarrow Stadium are in Stadium Select, each with its own crowd, pitch-side boards and menu images. The launcher
+  fetches them during the update (about 520 MB).
 - **Realistic grass.** Broadcast-green turf, winter ryegrass at cold grounds, couch grass in the tropics and tired
   turf at suburban parks.
 - **Field markings.** NRL-style sponsor markings and round branding on the grass, set automatically in career.

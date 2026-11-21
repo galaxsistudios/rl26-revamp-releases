@@ -40,6 +40,7 @@ New here? Start with [The big ones](whats-changed.md#the-big-ones). It's the two
 - [Tuning the lighting and graphics](whats-changed.md#graphics)
 - [Team songs and menu playlists](whats-changed.md#music-and-sound)
 - [Play Now's new match settings](whats-changed.md#play-now)
+- [The six new stadiums](whats-changed.md#stadiums-and-the-pitch)
 - [Editing official players, clubs and kits](whats-changed.md#academy-and-editing)
 
 **Career and competitions**
