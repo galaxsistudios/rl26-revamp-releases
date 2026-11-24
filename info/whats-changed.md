@@ -28,9 +28,11 @@ whatever you care about most.
 - [The optional Rugby 25 Expansion](#the-optional-rugby-25-expansion)
 
 > **Where are all the settings?** Most gameplay changes can be tuned in **Academy > Custom Difficulties**. Edit a
-> custom difficulty and you'll find the stock tabs plus the Revamp's **MODDED**, **KICKING** and **LINE BREAKS**
-> tabs. L1 / R1 switch tabs, L2 / R2 move a slider ten steps, and Square imports or exports the difficulty as a file.
-> The preset difficulties (Rookie to Legend) always use the Revamp's default values.
+> custom difficulty and the screen has three panels: 19 categories on the left (AI: Attack, Kicking: Contests,
+> Referee, Discipline, Weather and more), that category's sliders top right, and what the highlighted slider does
+> below them. **A** opens a category and **B** goes back, **L1 / R1** change category, **L2 / R2** move a slider ten
+> steps, and **Square** imports or exports the difficulty as a file. The preset difficulties (Rookie to Legend) always
+> use the Revamp's default values.
 
 ---
 
@@ -140,13 +142,15 @@ Chips. The Misc tab has Wind on Kicks and Wind on Goal Kicks.
 - **Rain changes the match.** On a wet pitch there are more handling errors and spills, passes are less accurate,
   players slip and tire faster, the ball skids and bounces differently, tackles slip more often, and the CPU plays a
   tighter game (more hit-ups, fewer offloads).
-- **Pick the weather.** Play Now > Match Settings > Time & Weather has a **Rain** row (Forecast / Light / Normal /
-  Heavy) and a **Wind** row (Forecast / Off / Light / Strong / Random). Heavy rain is a proper downpour with low mist
-  over the ground.
+- **Pick the weather.** Play Now > Match Settings > Time & Weather has a **Rain** row (Forecast / Off / Light / Normal
+  / Heavy; Off guarantees a dry match) and a **Wind** row (Forecast / Off / Light / Strong / Random). Heavy rain is a
+  proper downpour with low mist over the ground.
+- **Hot days.** Players tire faster in hot weather, and a **drinks break** mid-half gives some energy back. Tune both
+  with Heat Fatigue and Drinks Break Recovery in the Weather category (Drinks Break Recovery x0 = no breaks).
 - **Wind indicator** on the ground, with a new chevron look.
 
-Misc tab settings: Wet Handling Errors, Wet Footing, Wet Ball Bounce, Wet Tackle Breaks, AI Wet-Weather Plan, Wind on
-Kicks and Wind on Goal Kicks.
+More weather settings in Custom Difficulties: Wet Handling Errors, Wet Footing, Wet Ball Bounce, Wet Tackle Breaks, AI
+Wet-Weather Plan, Wind on Kicks and Wind on Goal Kicks.
 
 ## Rules and referees
 
@@ -158,9 +162,13 @@ Kicks and Wind on Goal Kicks.
   advantage is over (a kick counts too). Tackled short of that: scrum at the knock-on, their feed. Knocking on
   themselves first is a double knock-on and the first one stands. No more instant six-again a second after losing the
   ball in a tackle.
-- **Referee positioning.** The referee stands 10 m back on the defensive line, sprints on changeovers, follows line
-  breaks and sets up properly at scrums and goal kicks. Touch judges stay on their touchlines. The referee also
-  gives the "last tackle" signal.
+- **Referee positioning.** The referee stands on the defensive line at the ruck, keeping about 5 m away when running
+  past it, sprints on changeovers, follows line breaks and sets up properly at scrums and goal kicks. Touch judges
+  stay on their touchlines. The referee also gives the "last tackle" signal and blows the whistle at every break.
+- **Offside team-mates.** Kicking the ball into a team-mate who is in front of the kicker is always a penalty.
+- **Ruck interference** outside the defending team's 40 m line gives six again, and defenders keep clear of the dummy
+  half.
+- **Goal-line contests** are decided before the ball is grounded. Lose one and the ball is jolted loose.
 - **On report.** High tackles show the referee's close-up, and some put the player **on report** with a banner under the
   scoreboard. In a Revamp career, reports lead to the judiciary.
 - **HIAs.** Some head-high tackles send the tackled player off for a **Head Injury Assessment**. They're replaced on a
@@ -186,9 +194,20 @@ Kicks and Wind on Goal Kicks.
 - **Plays to the situation.** More expansive when behind late, kicks on the last, field goals when it matters.
 - **Cracks under pressure.** Through the discipline meter, a rattled CPU team gives away penalties, forces offloads and
   plays the ball sloppily.
+- **Smarter last tackles.** No forward hit-ups on the last past 10 m out, more grubbers near the line, and the
+  playmaker takes the kick.
+- **Kicks that fit the game.** Long punts by default (short ones when the team is rattled), no chips from inside 10 m,
+  two-point field goals only when the situation calls for one, and near-certain conversions from in front, taken by
+  the best goal kicker on the field.
+- **Better dummy-half and support play.** The dummy half passes instead of standing to be tackled, scoots at
+  well-offside defenders, and support players hold their lanes. After a line break the carrier holds the ball unless
+  real support is there.
+- **Club attacking styles.** Every club plays its own attacking style (see [Academy and editing](#academy-and-editing)).
+- **Emergency swaps** for exhausted forwards.
 
-AI tab settings: AI Interchange Fatigue, AI Bench Rotation, AI Rotation Checkpoints, AI Late-Game Urgency, AI Ruck
-Awareness, Fullback Depth, AI Dummy-Half Scoots and AI Own-End Slow Play-The-Ball.
+AI settings in Custom Difficulties include AI Interchange Fatigue, AI Bench Rotation, AI Rotation Checkpoints, AI
+Late-Game Urgency, AI Ruck Awareness, Fullback Depth, AI Dummy-Half Scoots, AI Own-End Slow Play-The-Ball, AI Short
+Punts and **AI Tactic Mix** (how often the CPU calls hit-ups, out-the-back plays, cross-overs and inside balls).
 
 ## Stamina, injuries and ratings
 
@@ -197,7 +216,8 @@ Awareness, Fullback Depth, AI Dummy-Half Scoots and AI Own-End Slow Play-The-Bal
 - **Position-based overall ratings (OVR).** A prop is rated on defence, carries and offloads, a half on kicking and
   passing, a winger on speed, catching and evasion, all on one scale. Sprint speed now counts (it didn't in stock).
 - **Injury scenes.** Unused concussion and hamstring cutscenes are back, and HIAs have their own.
-- **New Misc-tab sliders:** Game Speed, Pace Spread (how different fast and slow players feel), Acceleration, Fatigue &
+- **Golden point** gives back a little stamina, with its own slider.
+- **New sliders:** Game Speed, Pace Spread (how different fast and slow players feel), Acceleration, Fatigue &
   Pressure Errors and Half-Time Recovery.
 
 ## Career mode
@@ -270,7 +290,10 @@ career to get everything below.
 - **Match Settings has four tabs** (L1 / R1): **General** (including **Finals**: play it as a Grand Final),
   **Time & Weather**, **Officiating** (choose the referee and touch judges, and how kick-off is decided: coin toss,
   random or your choice), and **Visuals** (field markings, ball, scoreboard, referee jersey, commentary, trophy and
-  crowd, as picture tiles).
+  crowd, as picture tiles). Visuals also has **LED Boards**, **Goal Posts** and **Corner Posts** tiles: pick the
+  sponsor playlist and the post pads for the match.
+- **Finals trophies.** Each competition's final uses its real trophy (NSW Cup and both World Cups included), and the
+  trophy picker has more to choose from. In World Cup and Pacific finals, both teams walk out together.
 - **Presets.** Press **Square** to save or load your settings, or load a competition's look (NRL, NRLW, NSW Cup,
   Origin, Super League...).
 - **Crowd settings.** Set attendance (0% = an empty ground) and the home / away fan split.
@@ -287,7 +310,14 @@ career to get everything below.
   undoes it all.
 - **Club lists as a logo grid.** The Academy's club lists show club logos in a grid, with league tabs and A-Z or OVR
   sorting.
-- **Club Identity screen** redesigned, with an emblem panel.
+- **Club Identity screen** redesigned, with an emblem panel. Its **Attacking Style** row sets how the club attacks
+  (every club has one already), and **Screen Pack** picks the look of its stadium screen animations.
+- **LED Customization** (in the Academy row): choose each club's and competition's LED sponsor playlist, and make
+  your own animated boards with text, a logo, fonts, colours, scrolling and transitions. Your boards can then be
+  picked like any sponsor.
+- **Sponsors screen.** Search sponsors, filter the list, and choose the goal and corner post pads.
+- **Logo Creator.** Much better SVG import, and a **Quick Tools** tab.
+- **Jersey editor.** Custom manufacturers, smoother logos and number placement.
 - **Uniform options.** On PRIMARY KITS, **Start** opens More Options (Export Jersey, Rename, Duplicate, Delete, Set
   Defaults), and the right stick spins and zooms the preview.
 - **Uniforms tabs.** Each club's Uniforms list has three tabs (L1 / R1): **PRIMARY KITS**, the **KIT LIBRARY** of older
@@ -330,8 +360,11 @@ career to get everything below.
 - **Replay stinger.** A team-colour swipe with the club crest leads from a try into its replay.
 - **Match summary.** Penalty goals are labelled properly, scorers are listed in order, and the team sheets show
   numbers and colours.
-- **Finals screens.** The stadium's big screen turns gold for Grand Finals, silver for other finals, and sky blue
-  and maroon for State of Origin.
+- **Animated stadium screens.** At the NRL home grounds and draw venues, the big screen plays animations for the home
+  team's tries, kicks and big moments, in one of five screen packs. Before internationals it shows the anthem flags,
+  and finals, Origin and Magic Round get their own looks. The finals colours stay: gold for Grand Finals, silver for
+  other finals, and sky blue and maroon for State of Origin.
+- **2026 World Cup broadcast graphics.** World Cup matches get the TV scoreboard and a matching HUD.
 - **Ladder logos.** Club logos on the competition ladder (empty in stock).
 - **Loading screen.** Club-colour arrows, bigger crests, the stadium in the background and a spinning ball.
 - **Try celebrations.** Celebrations that shipped but never played are back (including Melbourne Storm players' own,
@@ -360,9 +393,10 @@ career to get everything below.
   Rounds include ANZAC, Indigenous, Women in League, Multicultural, Magic Round, Country Round, Finals, Grand Final,
   Origin and Las Vegas. Pick one in Play Now's Field Markings.
 - **Pitch numbers** in a bold broadcast-style font.
-- **LED boards.** Each club's own partners on the stadium ribbons, with special boards for Grand Finals, finals, Origin,
-  Magic Round and Las Vegas.
-- **Goal post pads** for more clubs, and red Harvey Norman World Cup posts.
+- **Animated LED boards.** Every sponsor board moves and scrolls, and they follow replays. Each club and competition
+  has its own sponsor playlist, with special boards for Grand Finals, finals, Origin, Magic Round and Las Vegas.
+- **Goal post pads.** 84 sponsor pads plus Grand Final and Magic Round pads, more clubs, and red Harvey Norman World
+  Cup posts.
 - **Las Vegas (Allegiant Stadium).** Mustard NFL-style posts, black in-goals and Rugby League Las Vegas branding.
 - **Suncorp Stadium.** The roof lights take on the teams' colours at night games.
 - **Sunshine Coast Stadium** is selectable, in an early version of the real ground.
@@ -383,6 +417,8 @@ career to get everything below.
 - **Community Creations.** Kits made by the community on the FanHub, in the Kit Library under a COMMUNITY CREATIONS
   heading. Each kit is credited to its creator there and on the About page.
 - **Unreleased kits stay hidden** (like the game's new Disruptors and Inferno Pro Team kits) until they're released.
+- **New kits:** Catalans Dragons 2027 home and away, Queensland Maroons 2027 home, Bradford Bulls 2027 home and away,
+  and the Rabbitohs 2014 home jersey in the Kit Library.
 - **Kit names show their season** ("HOME 2026"), and clubs wear their newest kit by default.
 - **Fixed logos** on a few official kits.
 - **Seven new referee kits** for 2026 (Play Now > Officiating > Referee Jersey).

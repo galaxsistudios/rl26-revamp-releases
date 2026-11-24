@@ -148,7 +148,7 @@ To play online, use **Revert to vanilla** first.
 
 | What | Where |
 |---|---|
-| Gameplay (discipline, kicking, passing, AI, referees, HIAs, scrums...) | **Academy > Custom Difficulties**: edit a custom difficulty, then the stock tabs plus **MODDED**, **KICKING** and **LINE BREAKS** |
+| Gameplay (discipline, kicking, passing, AI, referees, HIAs, scrums...) | **Academy > Custom Difficulties**: edit a custom difficulty, then pick a category on the left (19 of them) |
 | Graphics and Revamp Lighting | **Settings > Graphics** |
 | Music, team songs and menu playlists | **Settings > Audio > Manage Music** |
 | Match options (referees, kick-off, ball, markings, crowd) | **Play Now > Match Settings** |

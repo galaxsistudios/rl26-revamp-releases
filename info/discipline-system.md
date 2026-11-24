@@ -155,8 +155,8 @@ and keep the **CPU** calmer:
 | Veteran | x1.25 | x0.9 |
 | Legend | x1.5 | x0.8 |
 
-To change it, make your own difficulty: **Academy > Custom Difficulties**, edit one, and switch to the **MODDED** tab
-(L1 / R1 switch tabs):
+To change it, make your own difficulty: **Academy > Custom Difficulties**, edit one, and open the **Discipline**
+category on the left (L1 / R1 change category):
 
 | Setting | What it does |
 |---|---|
@@ -166,7 +166,8 @@ To change it, make your own difficulty: **Academy > Custom Difficulties**, edit 
 | **Discipline Recovery** | How fast players settle (x0 = every mistake sticks, up to x3). |
 | **Discipline Contests** | How much discipline decides fends, steps, tackle breaks and strips (x0 = off, up to x2). |
 
-The **LINE BREAKS** tab has **Professional Foul Sin Bin** (on / off).
+The same category has **Line Break Discipline**: since 0.0.10, a line break builds pressure on the defending team
+instead of costing it a big chunk at once. The **Referee** category has **Professional Foul Sin Bin** (on / off).
 
 Settings are saved when you press Back, per custom difficulty name. Renaming a difficulty starts it fresh. Pick your
 custom difficulty for a match and its settings apply. You can also share difficulties: press **Square** on the edit
