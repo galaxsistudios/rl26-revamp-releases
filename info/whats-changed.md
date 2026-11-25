@@ -275,7 +275,8 @@ career to get everything below.
 - **One club per team.** The separate "2025" clubs are folded into the 2026 ones, so each team appears once. Their old
   kits come along as "HOME 2025" and so on.
 - **Competition mode.** Custom leagues of up to **30 clubs** (stock 16), plus Pacific Cup, Pacific Bowl, International
-  Test and NSW Cup tiles, and randomly generated draws.
+  Test and NSW Cup tiles, and randomly generated draws. Each competition has a **Settings** tab for its match visuals
+  (field markings, ball, scoreboard and more), and its Match Settings use tabs like Play Now's.
 - **Coaches.** Every club has a head coach in a club-coloured polo, and both coaches stand on the sideline with the
   occasional reaction close-up. 70 hidden coaches and two female referees (Kasey Badger and Belinda Sharpe) are
   unlocked.
@@ -294,6 +295,7 @@ career to get everything below.
   sponsor playlist and the post pads for the match.
 - **Finals trophies.** Each competition's final uses its real trophy (NSW Cup and both World Cups included), and the
   trophy picker has more to choose from. In World Cup and Pacific finals, both teams walk out together.
+- **Match Ball list** with a 3D preview of each ball, including the ones you design in the Academy.
 - **Presets.** Press **Square** to save or load your settings, or load a competition's look (NRL, NRLW, NSW Cup,
   Origin, Super League...).
 - **Crowd settings.** Set attendance (0% = an empty ground) and the home / away fan split.
@@ -329,6 +331,13 @@ career to get everything below.
   player editor, with search, clubs and kits. An edited referee or coach replaces the original in the lists.
   Share them as files: press **X** on Edit Referee / Edit Coach to export, or use the **Import / Export** rows on the
   Referees and Coaches screens.
+- **Ball designer.** **Academy > Balls**: design your own match balls with your own colours, stripes and logos, and
+  choose the default balls.
+- **Field markings designer.** Design your own markings for the grass, or customise the existing ones, in the Academy.
+- **More player fields.** The player editor's Identity screen adds Contract Expiry, World Cup Player and Conversion
+  Style (plus Sex, Age and Face Scan to view). The Skills screen has a **Mentality** tab (Loyalty, Reputation, Ego);
+  a more loyal player is more likely to re-sign with their club in a career. These cost no points and don't change
+  the OVR.
 - **Randomise appearance.** The appearance editors have a Randomise button.
 - **Kicking tee colour.** Player editor > Appearance > Accessories > Kicking Tee.
 - **12 patterned headgear designs** (lightning, tiger, tribal, camo, flames and more).
@@ -357,6 +366,9 @@ career to get everything below.
 - **Anzac Round.** Both teams walk out together, then line up for the Last Post.
 - **Bunker decisions.** A logo wipe into the replay, "Decision pending", then a big **TRY** (green) or **NO TRY**
   (red). A try now gets the whistle, the call and a celebration.
+- **Cinematic replays.** New try camera angles (wing, corner post, spidercam), field goal replays, and a celebration
+  replay that sometimes slows down halfway. Replays chain together with logo wipes, a sponsor **REPLAY** badge shows
+  top left, and there's no replay after a completed set of six.
 - **Replay stinger.** A team-colour swipe with the club crest leads from a try into its replay.
 - **Match summary.** Penalty goals are labelled properly, scorers are listed in order, and the team sheets show
   numbers and colours.
@@ -424,7 +436,7 @@ career to get everything below.
 - **Seven new referee kits** for 2026 (Play Now > Officiating > Referee Jersey).
 - **Nine special balls:** Magic Round, NSW Cup, NRLW and NRL Grand Final, Ashes, Pacific Test, Super League Las
   Vegas and Magic Weekend, and an RL26 Revamped ball. Career uses them automatically.
-- **96 HD club logos.**
+- **96 HD club logos**, with cleaner logo-only NRL emblems and a full-colour Storm.
 - **A cleaner World Cup 2026 logo.**
 
 ## Menus and look
@@ -436,6 +448,8 @@ career to get everything below.
 - **Animated boot intro and start screen.** To boot straight to the main menu, set `skip_intro = true` in
   `rl26_revamp.ini`, or tick "Skip the boot splash screens" in the launcher.
 - **PlayStation button prompts** if a PlayStation pad is plugged in before you press Play (or choose in the launcher).
+- **Your team's ball** on the main menu, and an **Academy Balls** box.
+- **Version label.** Under the game's version number, the main menu shows which Revamp release you're on.
 - **About RL26 Revamped** in Extras.
 
 ## Graphics
