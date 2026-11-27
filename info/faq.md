@@ -81,14 +81,17 @@ see a new one.
 ### Steam updated the game. What do I do?
 
 A game update can replace files the Revamp changed. The launcher warns you when the game has been updated since the
-release was built. Wait for a Revamp release that supports the new game version, then update through the launcher.
+release was built. Since release 0.0.12 the launcher can also hold game updates: it sets Steam to update Rugby League
+26 only when you launch it, and warns you before **Play** when an update is waiting. Turn it on or off in the
+launcher's settings (it closes and reopens Steam to change it). You need the 0.0.12 launcher from the
+[latest release](https://github.com/galaxsistudios/rl26-revamp-releases/releases/latest) for this. Wait for a Revamp release that supports the new game version, then update through the launcher.
 
 That update is a full reinstall. Keep **Steam running**: the Revamp first asks Steam to **Verify integrity of game
 files**, which puts the game back to the new version's files. Then it sets aside its backup of the old version and
 installs over the new files. Your saves are backed up first. Each Revamp release keeps Big Ant's changes from the game
 update alongside its own.
 
-Release 0.0.11 supports Rugby League 26 version 1.0.6004 (19 November 2026).
+Release 0.0.12 supports Rugby League 26 version 1.0.6004 (19 November 2026).
 
 ### The update is downloading stadiums. Is that normal?
 
@@ -219,7 +222,9 @@ Turn Debug Logging back **Off** afterwards. It writes a lot of files.
 
 ### The game crashed. Where are the crash reports?
 
-In the `revamp_crashes` folder inside the game folder. You don't need to dig them out: the **Bug report** button
-includes the newest ones.
+In the `revamp_crashes` folder inside the game folder, or in `%LOCALAPPDATA%\CrashDumps` if Windows is set to keep
+crash dumps. You don't need to dig them out: since release 0.0.12 the **Bug report** button includes the newest ones
+from either place. If you made a bug report with an older version, send the `.revamp.txt` file from that folder
+too.
 
 [Back to the info index](README.md)

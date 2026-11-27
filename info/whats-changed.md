@@ -198,7 +198,8 @@ Wet-Weather Plan, Wind on Kicks and Wind on Goal Kicks.
   playmaker takes the kick.
 - **Kicks that fit the game.** Long punts by default (short ones when the team is rattled), no chips from inside 10 m,
   two-point field goals only when the situation calls for one, and near-certain conversions from in front, taken by
-  the best goal kicker on the field.
+  the team's goal kicker. How often the CPU lands goal kicks (in front, wide out, long range, and how much the
+  kicker's rating matters) has its own sliders in Custom Difficulties.
 - **Better dummy-half and support play.** The dummy half passes instead of standing to be tackled, scoots at
   well-offside defenders, and support players hold their lanes. After a line break the carrier holds the ball unless
   real support is there.
@@ -283,6 +284,10 @@ career to get everything below.
 - **Corrected club colours** for 59 teams (Penrith black and red, Parramatta blue first and so on). They drive the
   scoreboard, loading screen and more.
 - **Corrected stadium names** for 24 grounds.
+- **Super League 2027 laws.** From the 2027 season, Super League matches have two-point field goals from 40 m out,
+  and teams name a bench of 6 and use 4 of them.
+- **New head models** for Johnathan Thurston, Darren Lockyer (a free agent you can sign), Mal Meninga (the Perth
+  Bears' coach) and Wayne Bennett.
 
 ## Play Now
 
@@ -304,8 +309,9 @@ career to get everything below.
 
 ## Academy and editing
 
-- **Edit official players more.** Scanned players' body, tattoos, sleeves, strapping, headgear and boots, and every
-  official player's preferred roles. Faces, names and numbers stay locked.
+- **Edit official players more.** Scanned players get the full Appearance screens (neck, head size, skin, face and
+  hair) plus body, tattoos, sleeves, strapping, headgear and boots, and every official player's preferred roles can
+  be changed. Names and numbers stay locked. Your changes to official players and clubs are kept when you restart.
 - **Edit official clubs.** Names, emblem, colours and home grounds.
 - **Edit official kits.** Change the cut and the back numbers (font, colour, keylines), add a **name on the back**,
   and get automatic **chest text** for Grand Finals, Origin deciders and milestone games. Restore Official Jerseys
@@ -330,7 +336,8 @@ career to get everything below.
 - **Referees & Coaches editor** in the Academy row: edit or create referees and coaches, in the same style as the
   player editor, with search, clubs and kits. An edited referee or coach replaces the original in the lists.
   Share them as files: press **X** on Edit Referee / Edit Coach to export, or use the **Import / Export** rows on the
-  Referees and Coaches screens.
+  Referees and Coaches screens. Referees and coaches with face scans can be edited too, in their own **Referees** and
+  **Coaches** boxes in the Academy.
 - **Ball designer.** **Academy > Balls**: design your own match balls with your own colours, stripes and logos, and
   choose the default balls.
 - **Field markings designer.** Design your own markings for the grass, or customise the existing ones, in the Academy.
@@ -345,7 +352,10 @@ career to get everything below.
 - **Clear Academy Data.** Press Y / Triangle on the Academy row to bulk-delete or reset Academy content. It asks first
   and can't be undone.
 - **More emblems.** North Sydney Bears, PNG Chiefs, classic NRL logos, 55 hidden badges and the Season 11 emblem are
-  in the emblem picker, which has full-width tabs by league and no duplicates.
+  in the emblem picker, which has full-width tabs by league and no duplicates. 312 emblems from the older Rugby League
+  games are in its **Legacy**, **Retro** and **Fantasy** tabs.
+- **Animation Viewer** in Extras: play any of the game's animations on players at a ground, choose the players and
+  their jerseys, and watch it again as a replay.
 - **Trophy Viewer** in Extras: every trophy on its stand.
 
 ## Broadcast presentation
@@ -430,12 +440,16 @@ career to get everything below.
   heading. Each kit is credited to its creator there and on the About page.
 - **Unreleased kits stay hidden** (like the game's new Disruptors and Inferno Pro Team kits) until they're released.
 - **New kits:** Catalans Dragons 2027 home and away, Queensland Maroons 2027 home, Bradford Bulls 2027 home and away,
-  and the Rabbitohs 2014 home jersey in the Kit Library.
+  St Helens 2027 away, and the Rabbitohs 2014 home jersey in the Kit Library.
+- **Team Logo on kits.** The jersey editor's logo picker has a **Team Logo** that puts the club's emblem on the kit
+  and follows it if you change the emblem; sponsor and club emblem logos can go on kits too. Editing a kit, **Start**
+  puts the club's colours in the colour picker.
 - **Kit names show their season** ("HOME 2026"), and clubs wear their newest kit by default.
 - **Fixed logos** on a few official kits.
 - **Seven new referee kits** for 2026 (Play Now > Officiating > Referee Jersey).
 - **Nine special balls:** Magic Round, NSW Cup, NRLW and NRL Grand Final, Ashes, Pacific Test, Super League Las
   Vegas and Magic Weekend, and an RL26 Revamped ball. Career uses them automatically.
+- **79 balls from the older Rugby League games**, plus the 2020 Perth Nines ball, in the Match Ball list.
 - **96 HD club logos**, with cleaner logo-only NRL emblems and a full-colour Storm.
 - **A cleaner World Cup 2026 logo.**
 
